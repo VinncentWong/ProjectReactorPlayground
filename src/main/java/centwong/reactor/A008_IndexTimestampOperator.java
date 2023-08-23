@@ -4,6 +4,7 @@ import reactor.core.publisher.Flux;
 import reactor.util.function.Tuple2;
 
 import java.time.Instant;
+import java.util.concurrent.CompletableFuture;
 import java.util.stream.Stream;
 
 public class A008_IndexTimestampOperator {
